@@ -1,0 +1,4 @@
+date,ticker,signal_3m,signal_6m,signal_12m,signal_combined,signal_smooth
+2025-10-20,SPY,0.10,0.12,0.15,0.12,0.11
+2025-10-20,IEUR,0.05,0.06,0.08,0.06,0.06
+2025-10-20,EWJ,-0.02,0.00,0.03,0.00,0.01
